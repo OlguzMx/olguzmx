@@ -56,7 +56,7 @@ LinkedIn:
 www.linkedin.com/in/olguzmx
 
 Correo:
-oliverfjg8@hotmail.com
+olguztechservices@gmail.com
 <!--
 **OlguzMx/olguzmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
